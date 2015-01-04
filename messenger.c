@@ -1,18 +1,10 @@
 
-
-
-
-
-// this is a UDP messenger based upon a simple flooding strategy
-
 /*=============================
   
     
-    Assignment 3
+    UDP Messenger 
+      (based upon a simple flooding strategy)
     Author: Jessie Serrino
-    In this assignment, you will notice that I have implemented
-    the extra credit.
-
   
   =============================*/ 
 
